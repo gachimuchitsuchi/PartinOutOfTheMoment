@@ -18,6 +18,10 @@ https://github.com/gachimuchitsuchi/PartinOutOfTheMoment/assets/101007932/8fb89a
 
 ## 工夫したステージ
 ### ステージ３
+カラスのふんが落ちてきて、当たると敗北です。かわす必要があります。ぺちょの効果音が評判が良かったです。
+
+https://github.com/gachimuchitsuchi/PartinOutOfTheMoment/assets/101007932/96c2f6b7-8b23-453e-89d1-cab097231c43
+
 
 
 ### ステージ４
