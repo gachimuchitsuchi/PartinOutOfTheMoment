@@ -38,3 +38,5 @@ https://github.com/gachimuchitsuchi/PartinOutOfTheMoment/assets/101007932/089261
 
 ## むげんモード
 ひたすらに「!!!」がでたら、ボタンを押し敵を倒します。敵を倒すたびに、敵が強くなります。敵に負けると現在の自分の反射神経速度を表示します。
+
+<img src="https://github.com/gachimuchitsuchi/PartinOutOfTheMoment/assets/101007932/1e4c6b6c-393e-454b-a85a-1e356a13b844" width="50%" />
