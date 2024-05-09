@@ -5,7 +5,8 @@
 作成期間　2021年3月 1週間程度
 作成人数 　1人 
 
-<img src="(https://github.com/gachimuchitsuchi/PartinOutOfTheMoment/assets/101007932/947b4e8b-991a-45c7-a4bc-cd122c2592de)" width="50%" />
+<img src="![スクリーンショット 2024-05-09 145751](https://github.com/gachimuchitsuchi/PartinOutOfTheMoment/assets/101007932/50023951-39cf-4e59-9d70-4bb63b6c2fbd)
+" width="50%" />
 
 ## ゲーム内容
 「友達を笑わせる」というコンセプトで自分の声を入れ作成しました。  
