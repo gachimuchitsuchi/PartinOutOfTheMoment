@@ -20,7 +20,7 @@ public class EndlessJudge : MonoBehaviour
     private static int OtetsukiCount = 0; //お手付きの回数
 
     private float WaitTime; //乱数取得用
-    public static float EnemyReactionRate = 3.0f; //敵の反応速度
+    public static float EnemyReactionRate = 1.0f; //敵の反応速度
 
     private bool ClickFlag = false; //プレイヤーがクリックできるようにするFlag
     private bool PushFlag = false; //プレイヤーがクリックを押したかを判断
@@ -65,14 +65,14 @@ public class EndlessJudge : MonoBehaviour
 
 
                     //敵の反応速度をどんどん早くする
-                    if (EnemyReactionRate <= 3.0f && EnemyReactionRate >= 2.0f)
+                    if (EnemyReactionRate <= 1.0f && EnemyReactionRate > 0.3f)
                     {
-                        EnemyReactionRate = EnemyReactionRate - 0.5f;
+                        EnemyReactionRate = EnemyReactionRate - 0.1f;
                     }
 
-                    if (EnemyReactionRate <= 1.5f)
+                    if(EnemyReactionRate <= 0.3f)
                     {
-                        EnemyReactionRate = EnemyReactionRate - 0.01f;
+                        EnemyReactionRate = EnemyReactionRate - 0.02f;
                     }
 
                     //Debug.Log(EnemyReactionRate);
