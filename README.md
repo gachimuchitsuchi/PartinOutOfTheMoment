@@ -1,4 +1,4 @@
-# PartinOutOfTheMoment
+# 居合
 初めて作成したゲーム 
 
 作成環境 　Unity2D　Editor Version 2020.3.33f1  
