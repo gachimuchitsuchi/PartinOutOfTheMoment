@@ -2,14 +2,14 @@
 初めて作成したゲーム 
 
 作成環境 　Unity2D　Editor Version 2020.3.33f1  
-作成期間　2021年3月 1週間程度
+作成期間　2021年3月 1週間程度  
 作成人数 　1人 
 
 <img src="https://github.com/gachimuchitsuchi/PartinOutOfTheMoment/assets/101007932/50023951-39cf-4e59-9d70-4bb63b6c2fbd" width="50%" />
 
 ## ゲーム内容
 「友達を笑わせる」というコンセプトで自分で描いた絵と自声を入れてでゲームを作成しました。  
-「!!」が出現した瞬間にボタンを押し、早く押すことで敵を倒すゲームです。  
+「!!!」が出現した瞬間にボタンを押し、早く押すことで敵を倒すゲームです。  
 ５つのステージがあり、途中ギミックも用意しただボタンを押すだけのゲームにならないよう工夫しました。  
 
 
@@ -25,8 +25,15 @@ https://github.com/gachimuchitsuchi/PartinOutOfTheMoment/assets/101007932/96c2f6
 
 
 ### ステージ４
+リンゴが落ちてきます。「!!!」を先に押すとリンゴを切ってしまい負けます。我慢を強いられます。反射神経のゲームなのにと笑いながら文句を言われました。
+
+https://github.com/gachimuchitsuchi/PartinOutOfTheMoment/assets/101007932/85ff3358-02a6-4e11-ba41-35566785b442
 
 
-## 対戦モード
+## VSモード
+二人で対戦できます。シンプルなゲーム性ですが盛り上がってプレイしてもらえました。
 
-## エンドレスモード
+https://github.com/gachimuchitsuchi/PartinOutOfTheMoment/assets/101007932/0892613e-4e52-4f95-b409-662eec7ec8c1
+
+
+## むげんモード
